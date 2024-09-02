@@ -4,4 +4,5 @@ plot(x, y)
 median(x)
 summary (x)
 mean (x)
-
+mean(c(1,2,3))
+sd(c(1,2,3))
